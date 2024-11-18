@@ -1,4 +1,6 @@
+##################
 Hello, I'm Esdeath!
+##################
 An ultra fan of Karmine KCORP (🩵🤍)
 
 🎮 Master I on Naraka and a coach in the community.
