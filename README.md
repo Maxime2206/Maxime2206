@@ -1,12 +1,6 @@
-#################
-Hello I'm esdeath
-#################
-an Ultra fan of Karmine
-KCORP(🩵🤍)
+Hello, I'm Esdeath!
+An ultra fan of Karmine KCORP (🩵🤍)
 
-Master I on Naraka as well as coach
-
-🏆 I've been plating games for 5 years 🏆
-
-💻 language learned HTML, CSS, JS, PHP, Symfony, react. 💻
-(Angular in progress)
+🎮 Master I on Naraka and a coach in the community.
+🏆 5 years of gaming experience.
+💻 Languages learned: HTML, CSS, JS, PHP, Symfony, React. (Currently learning Angular).
