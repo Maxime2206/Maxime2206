@@ -1,5 +1,3 @@
-Voici un modèle pour transformer cette présentation en HTML pour un fichier README :
-
 # Hi, I'm Esdeath! 
 
 ## Proud ultra fan of Karmine KCORP (🩵🤍)
