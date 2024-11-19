@@ -12,5 +12,6 @@
 - PHP
 - Symfony
 - React
+- SQL
 
 ### 🔧 Currently mastering Angular to level up even more!
